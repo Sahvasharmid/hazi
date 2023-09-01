@@ -1,0 +1,35 @@
+.boxes{
+    background-color: green;
+    height: 50vh;
+    width: 50%;
+    margin: auto;
+    padding-top: 50px;
+    position: relative;
+}
+.box{
+   border: 1px solid red;
+   width: 25%;
+
+   height: 10vh;
+
+   
+}
+.box3{
+    
+  background-color: yellow;
+}
+.box2{
+    background-color: brown;
+}
+.box1{
+    background-color: aqua;
+}
+.box4{
+
+    background-color: blueviolet;
+}
+.box5{
+    position:absolute;
+    top:0;
+    background-color: mintcream;
+}
